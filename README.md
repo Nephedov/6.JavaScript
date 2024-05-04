@@ -1,10 +1,10 @@
 # Домашнее задание к лекции 6 «Обработка исключений и замыкания»
 
 ## Решения
- * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/2717c0c707c09ca208807eebae2e30c6ed171ca0/6.exception-closure/task.js">task.js</a> - код с реализованными функциями.
+ * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/6.exception-closure/task.js">task.js</a> - код с реализованными функциями.
 
-<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/2717c0c707c09ca208807eebae2e30c6ed171ca0/6.exception-closure">Репозиторий</a> с заданием и тестами.
-Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/2717c0c707c09ca208807eebae2e30c6ed171ca0/6.exception-closure/index.html">index.html</a>.
+<a href="https://github.com/Nephedov/bjs-2-homeworks/tree/bjs-53/6.exception-closure">Репозиторий</a> с заданием и тестами.
+Запуск через <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/6.exception-closure/index.html">index.html</a>.
 
 ## Что было сделано
 * Написаны функции распарсивающие строку в число с плавающей точкой, либо генерирующие ошибку в противном случае.

@@ -1,4 +1,4 @@
-# Домашнее задание к лекции 6 «Обработка исключений и замыкания»
+# «Обработка исключений и замыкания»
 
 ## Решения
  * <a href="https://github.com/Nephedov/bjs-2-homeworks/blob/bjs-53/6.exception-closure/task.js">task.js</a> - код с реализованными функциями.
